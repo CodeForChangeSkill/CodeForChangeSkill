@@ -1,5 +1,5 @@
 # 💫 About Me:I am a Software Engineer at IBM
-🔭 I’m currently working on System Design project with Spring Framework and microservices on cloud server <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Docker and Kubernates with AWS cloud<br>
+🔭 I’m currently working on System Design project with Spring Framework and microservices on cloud server <br>🤝 I’m looking to work in Healthcare,Automobiles, Pharmaceutical and Aerospace Industry to enhance my design pattern skill<br>🌱 I’m currently learning Docker and Kubernates with AWS cloud<br>
 
 
 ## 🌐 Socials:
