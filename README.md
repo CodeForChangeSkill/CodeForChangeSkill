@@ -1,6 +1,29 @@
 # 💫 About Me:I am a Software Engineer at IBM
 🔭 I’m currently working on System Design project with Spring Framework and microservices on cloud server <br>🤝 I’m looking to work in Healthcare,Automobiles, Pharmaceutical and Aerospace Industry to enhance my design pattern skill<br>🌱 I’m currently learning Docker and Kubernates with AWS cloud<br>
 
+# 💼 Recent Work
+
+## Top Shield Auto Care - UAE 🟢
+Premium automotive protection & detailing platform | Live in production
+- PPF (Paint Protection Film), nano ceramic coating, window tinting, matte/color PPF
+- Luxury automotive client management (Ferrari, Lamborghini, Rolls-Royce, etc.)
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Video hero, service booking
+- **Status:** 🟢 Live in Production
+- **Link:** [topshield.ae](https://topshield.ae) | [Instagram](https://www.instagram.com/topshield.ae/)
+
+## Margoni - UAE
+Technical services platform serving UAE market
+- Full-stack web solution for service delivery and client management
+- **Tech Stack:** Modern web stack, responsive design, service management features
+- **Status:** 🟢 Live in Production
+- **Link:** [margoni.ae](https://margoni.ae)
+
+## Sera Investments
+Investment and wealth management platform
+- Client-focused investment advisory and portfolio management interface
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Secure data handling
+- **Status:** 🟢 Live in Production
+- **Link:** [seraminvestments.com](https://seraminvestments.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hifzanmohammad/) 
