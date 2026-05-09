@@ -18,7 +18,7 @@ Technical services platform serving UAE market
 - **Status:** 🟢 Live in Production
 - **Link:** [margoni.ae](https://margoni.ae)
 
-## Sera Investments
+## Seram Investments
 Investment and wealth management platform
 - Client-focused investment advisory and portfolio management interface
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Secure data handling
