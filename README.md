@@ -3,6 +3,15 @@
 
 # 💼 Recent Work
 
+# E-Commerce Customer Retention Data Pipeline
+
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-336791.svg)](https://www.postgresql.org/)
+[![XGBoost](https://img.shields.io/badge/ML-XGBoost-FF6B35.svg)](https://xgboost.readthedocs.io/)
+[![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B.svg)](https://streamlit.io/)
+[![GitHub License](https://img.shields.io/github/license/yourusername/ecommerce-retention-pipeline.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/ecommerce-retention-pipeline.svg?style=social)](https://github.com/yourusername/ecommerce-retention-pipeline)
+
 ## Top Shield Auto Care - UAE 🟢
 Premium automotive protection & detailing platform | Live in production
 - PPF (Paint Protection Film), nano ceramic coating, window tinting, matte/color PPF
@@ -34,6 +43,7 @@ Investment and wealth management platform
 ![](https://github-readme-stats.vercel.app/api?username=CodeForChangeSkill&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeForChangeSkill&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForChangeSkill&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
